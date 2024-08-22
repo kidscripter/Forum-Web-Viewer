@@ -1,7 +1,6 @@
 # ForumWebViewer
 
-![Screenshot](https://github.com/kidscripter/ForumWebViewer/blob/main/Screenshot.PNG?raw=true)
-
+![Screenshot](https://github.com/kidscripter/Forum-Web-Viewer/blob/main/Screenshot.PNG?raw=true)
 Forum Web Viewer is a web based viewer that uses the Zeiss Forum database and image repository.
 
 To get started you will need to use Visual Studio and edit the following in the web.config
