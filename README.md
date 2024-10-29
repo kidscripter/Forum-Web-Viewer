@@ -1,6 +1,7 @@
 # ForumWebViewer
 
 ![Screenshot](https://github.com/kidscripter/Forum-Web-Viewer/blob/main/Screenshot.PNG?raw=true)  
+![Screenshot](https://github.com/kidscripter/Forum-Web-Viewer/blob/1b3b7175831ee2fefd8f3f0b651c17c607bfd1bd/Screenshot%202024-10-29%20163028.png)  
 Forum Web Viewer is a web based viewer that uses the Zeiss Forum database and image repository.  
 The build is setup to use Azure Enterprise Applications to register it with Entra.  
   
